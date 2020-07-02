@@ -3,4 +3,4 @@ Slides and code for the course given to the 1st year master students of the Mast
 
 The code is intended to be run in class along with the slides from lecture 2
 
-Update : if the R notebooks are not rendered the HTML files allow to display the notebooks
+Update : if the R notebooks are not rendered you can download the HTML files to display the notebooks
